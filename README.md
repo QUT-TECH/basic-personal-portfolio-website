@@ -40,11 +40,7 @@ That's it. One file.
 
 ## 🚀 How to Put This Online (Step by Step)
 
-1. **Create a free account** at [github.com](https://github.com)
-2. **Create a new repository** and name it exactly: `your-username.github.io`
-3. **Upload** `index.html` — rename it to `index.html` if needed
-4. Wait 1–2 minutes
-5. Your site is live at `https://your-username.github.io` 🎉
+[GitHub Pages Quickstart](https://docs.github.com/en/pages/quickstart)
 
 Paste that link into your CV and anyone in the world can view your portfolio.
 
